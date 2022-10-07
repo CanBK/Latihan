@@ -1,2 +1,7 @@
 Aldo
+<<<<<<< HEAD
 Daniel
+=======
+
+Irfan
+>>>>>>> 508104cf475dcbc82f04b473a86309305b852a64
